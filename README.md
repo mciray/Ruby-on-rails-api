@@ -1,4 +1,4 @@
-# API Endpoint Project
+# API Project
 
 This project is a Ruby on Rails API application that allows users to create, update, delete, and fetch articles, along with user authentication using JWT (JSON Web Token).
 
