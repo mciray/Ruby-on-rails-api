@@ -12,7 +12,7 @@ gem 'dotenv-rails', groups: [:development, :test]
 # JWT için
 gem 'jwt'
 # serializers
-gem 'active_model_serializers', '~> 0.10.0'
+gem 'active_model_serializers', '~> 0.10.15'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
